@@ -1,4 +1,3 @@
-
 public class appliance {
 	/*name
 	vendor
