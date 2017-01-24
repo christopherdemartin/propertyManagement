@@ -64,6 +64,5 @@ public class lease {
 		this.endDate = stringToDate(end);
 	}
 	
-	
 }
 
