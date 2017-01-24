@@ -6,8 +6,7 @@ public class test {
 		/*Get Today's Date
 		DateTime now = new DateTime();
 		LocalDate today = now.toLocalDate();
-		*/
-		
+		*/		
 		/*Send Email
 		String emailTo = "tademartin@gmail.com";
 		String body = "Today's date is: " + today;
